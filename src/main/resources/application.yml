@@ -1,0 +1,11 @@
+## YAML Template.
+spring:
+    h2:
+        console:
+            enabled: true
+            
+            
+server:
+    port: 9192
+
+---
